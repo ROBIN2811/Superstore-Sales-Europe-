@@ -11,8 +11,6 @@ The dataset used for this analysis contains information about sales transactions
 The Tableau dashboard provides insights into sales trends, product performance, and geographic distribution of sales.
 ## Conclusion
 The analysis offers valuable insights for optimizing sales strategies and improving overall performance.
-## UPdate if needed:
+## Further development if needed:
 - Incorporate predictive analytics for sales forecasting.
 - Enhance dashboard interactivity with filters and parameters.
-- ## References
-- 
