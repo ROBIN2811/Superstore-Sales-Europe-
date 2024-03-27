@@ -7,5 +7,12 @@ The dataset used for this analysis contains information about sales transactions
 ## Methodology
 - Data Exploration: Exploring the dataset to identify key insights and trends.
 - Dashboard Creation: Designing interactive visualizations in Tableau to showcase sales performance metrics.
-## Code
-- Tableau Workbook: [superstore_sales_dashboard.twbx]
+## Results
+The Tableau dashboard provides insights into sales trends, product performance, and geographic distribution of sales.
+## Conclusion
+The analysis offers valuable insights for optimizing sales strategies and improving overall performance.
+## UPdate if needed:
+- Incorporate predictive analytics for sales forecasting.
+- Enhance dashboard interactivity with filters and parameters.
+- ## References
+- 
