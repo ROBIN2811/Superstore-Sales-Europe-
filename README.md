@@ -5,18 +5,18 @@ This project develops an interactive dashboard using Tableau to analyze and visu
 ## Dataset
 The dataset used for this analysis contains information about sales transactions, including product details, sales volume, and customer demographics.
 
-I have provided the dataset that I used for analysis [Superstore TBlu.xlsx].
+I have provided the dataset that I used for analysis [Superstore TBlu.xlsx]
 ## Methodology
 - Data Exploration: Exploring the dataset to identify key insights and trends.
 - Dashboard Creation: Designing interactive visualizations in Tableau to showcase sales performance metrics.
 ## Visualization
 The Tableau dashboard provides insights into sales trends, product performance, and geographic distribution of sales.
 
-I have provided the dashboard [Superstore (EU).twb].
+I have provided the dashboard [Superstore (EU).twb]
 ## Conclusion
 The analysis offers valuable insights for optimizing sales strategies and improving overall performance.
 
-I have provided a summary report for this project [Superstore (EU).pdf].
+I have provided a summary report for this project [Superstore (EU).pdf]
 ## Further development if needed:
 - Incorporate predictive analytics for sales forecasting.
 - Enhance dashboard interactivity with filters and parameters.
