@@ -4,6 +4,7 @@ This repository contains a Tableau workbook file and documentation related to an
 This project develops an interactive dashboard using Tableau to analyze and visualize sales data for a superstore.
 ## Dataset
 The dataset used for this analysis contains information about sales transactions, including product details, sales volume, and customer demographics.
+I have provided the dataset that I used for analysis.[Superstore TBlu]
 ## Methodology
 - Data Exploration: Exploring the dataset to identify key insights and trends.
 - Dashboard Creation: Designing interactive visualizations in Tableau to showcase sales performance metrics.
