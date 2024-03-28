@@ -9,7 +9,7 @@ I have provided the dataset that I used for analysis.[Superstore TBlu.xlsx]
 ## Methodology
 - Data Exploration: Exploring the dataset to identify key insights and trends.
 - Dashboard Creation: Designing interactive visualizations in Tableau to showcase sales performance metrics.
-## Visulaization
+## Visualization
 The Tableau dashboard provides insights into sales trends, product performance, and geographic distribution of sales.
 
 I have provided the dashboard.[Superstore (EU).twb]
