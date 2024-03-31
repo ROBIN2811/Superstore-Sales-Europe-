@@ -14,7 +14,7 @@ The Tableau dashboard provides insights into sales trends, product performance, 
 
 I have provided the dashboard [Superstore (EU).twb]
 ## Conclusion
-The analysis offers valuable insights for optimizing sales strategies and improving overall performance.
+'The analysis offers valuable insights for optimizing sales strategies and improving overall performance.'
 
 I have provided a summary report for this project [Superstore (EU).pdf]
 ## Further development if needed:
