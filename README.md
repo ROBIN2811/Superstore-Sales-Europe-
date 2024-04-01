@@ -1,6 +1,6 @@
 # Superstore-Sales-Europe
 This repository contains a Tableau workbook file and documentation related to an interactive dashboard created for analyzing superstore sales data. The dashboard presents sales performance metrics and trends for various product categories and regions.
-![Supermarket Photo](./images/Superstore Sales.png)
+![Supermarket Photo](https://github.com/ROBIN2811/Superstore-Sales-Europe-/blob/main/images/Superstore%20Sales.png)
 
 ## Overview
 This project develops an interactive dashboard using Tableau to analyze and visualize sales data for a superstore.
